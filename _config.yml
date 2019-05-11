@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Minarae's Home"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Seongjin, Kim"
 description              : "An amazing website."
 url                      : "https://minarae.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
